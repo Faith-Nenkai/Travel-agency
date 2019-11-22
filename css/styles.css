@@ -1,13 +1,21 @@
 .Tropical{
   color: aqua;
   font-family: fantasy;
-  text-align: center;
+  text-align: left;
   font-size: medium;
 
 }
 .Popular{
   color: blueviolet;
   font-style: italic;
-  header color: #7325e;
-  text color: #7dc410;
+}
+.Tropical p{
+  color: black;
+}
+#tropical{
+  height: 500px;
+  width: 600px;
+}
+.Popular p{
+  color: black;
 }
